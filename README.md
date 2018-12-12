@@ -1,1 +1,2 @@
 # V-hicules-Database
+Petite applette java sous Eclipse pour la gestion d’une base de données d’entretien de véhicules utilisée dans un garage auto décrite par la classe Database. Cette base de données est accessible de l’extérieur via un certain nombre de méthodes. L’interface graphique permettant de se connecter à cette base de données, de vérifier l’identité de conducteur, d’effectuer le contrôle technique d’un certain nombre de points et d’établir le prix de l’intervention en fonction du temps d’intervention, à la fin la mise à jour de la date d’intervention.
